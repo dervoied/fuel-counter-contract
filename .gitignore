@@ -1,0 +1,6 @@
+out
+target
+.idea
+.DS_Store
+.env
+.vscode
